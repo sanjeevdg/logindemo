@@ -1,15 +1,3 @@
-
-.loginbox {
-	display:flex;
-	align-self:center;
-	align-items:flex-start;
-	justify-content:center;
-	background-color:'#ffffff';
-	margin:auto;
-	margin-top:40px;	
-	border-radius:10;
-}
-
 .loginboxinner{
 	background-color:'#ffffff';
 	border-radius:10;
@@ -106,27 +94,3 @@
 	border-radius:5px;
 	text-shadow: none;
 }
-
-
-/*
-.App-link {
-    color: #61dafb;
-}
-*/
-@font-face {
-  font-family: 'OpenSansSemiBold';
-  src: local('OpenSansSemiBold'), url(./assets/fonts/OpenSans-SemiBold.ttf) format('truetype');
-}
-
-@font-face {
-  font-family: 'OpenSansBold';
-  src: local('OpenSansBold'), url(./assets/fonts/OpenSans-Bold.ttf) format('truetype');
-}
-
-@font-face {
-  font-family: 'OpenSansRegular';
-  src: local('OpenSansRegular'), url(./assets/fonts/OpenSans-Regular.ttf) format('truetype');
-}
-
-
-

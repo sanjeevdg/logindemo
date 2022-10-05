@@ -1,0 +1,21 @@
+.App-header {
+    background-color: #202938;
+  	align-items: center;
+	justify-content: center;
+  	color: white;
+	margin-top:20px;
+	margin-bottom:-15px;
+}
+
+.App-logo {
+	margin-top:10vh;
+	height: 80px;
+	width:80px;
+	border-radius:6px;
+}
+
+.headcopya {
+	color:'#ffffff';
+	font-size:30px;
+	font-family:OpenSansBold;
+}
