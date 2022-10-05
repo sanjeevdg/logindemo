@@ -1,3 +1,5 @@
+import './myheader.css';
+
 const Myheader = () => {
   return (
 		<>
